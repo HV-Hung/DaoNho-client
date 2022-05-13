@@ -1,0 +1,8 @@
+.homeContainer{
+    background-color: #f0f2f5;
+    
+    display: flex;
+    position: relative;
+    justify-content: center;
+   
+}
